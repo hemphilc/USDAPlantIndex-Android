@@ -6,6 +6,6 @@
 * Corey Hemphill
 * Chrisopher Cooper
 
-## Application info
+## Application Info
 This Android application uses the USDA plant API to allow users 
 to search for and identify plants across the USA.
